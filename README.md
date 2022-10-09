@@ -5,7 +5,8 @@ by checking other traveler’s reviews and agency ratings. It also gives the opp
 
 Here is some UI designs of TourDew:
 
-<img src="https://user-images.githubusercontent.com/39839346/194773746-e91e658e-7984-4ab4-a597-0c2e937fa195.jpg" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/39839346/194773748-54ce2d2c-f269-476c-899e-832ea40a62f5.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/39839346/194773795-ee59c809-6e14-47f0-9674-7a30a7365aa4.jpg" width="200" height="400" /><img src="https://user-images.githubusercontent.com/39839346/194773746-e91e658e-7984-4ab4-a597-0c2e937fa195.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/39839346/194773748-54ce2d2c-f269-476c-899e-832ea40a62f5.jpg" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/39839346/194773750-779e24cb-ee4c-4fee-97fe-d3d28fb8a688.jpg" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/39839346/194773752-55939269-ba6e-4d02-9ec8-5a81b1cf1249.jpg" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/39839346/194773754-db68c541-8fc3-48b0-aff7-ddbcb7e54666.jpg" width="200" height="400" />
@@ -34,5 +35,4 @@ Here is some UI designs of TourDew:
 <img src="https://user-images.githubusercontent.com/39839346/194773789-87155f2f-c606-4c12-bf7e-7fc8b24c5530.jpg" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/39839346/194773791-66f045df-126f-4e1c-90cf-341f8284803e.jpg" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/39839346/194773793-feaea0f5-5b1d-4797-a656-6934e63019f7.jpg" width="200" height="400" />
-<img src="https://user-images.githubusercontent.com/39839346/194773795-ee59c809-6e14-47f0-9674-7a30a7365aa4.jpg" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/39839346/194773796-5bdd7ae7-9448-44c3-85cb-ea24fdcfb77d.jpg" width="200" height="400" />
