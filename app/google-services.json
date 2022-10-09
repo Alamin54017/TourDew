@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084665126754",
+    "project_id": "tourdew2",
+    "storage_bucket": "tourdew2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084665126754:android:5ba613a58038923d3a563b",
+        "android_client_info": {
+          "package_name": "com.example.tourdew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084665126754-s5uv2psqg5kgdkjdrkisl73ekrqp309n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT2ruvy4seDdfNFi0yy8685XwVkxiV-sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084665126754-s5uv2psqg5kgdkjdrkisl73ekrqp309n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
